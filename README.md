@@ -24,5 +24,3 @@ Simply open `index.html` in any web browser.
 ## Contributing
 
 Feel free to fork and contribute.
-
-## License
