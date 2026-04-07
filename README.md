@@ -26,5 +26,3 @@ Simply open `index.html` in any web browser.
 Feel free to fork and contribute.
 
 ## License
-
-[Add license if any]
